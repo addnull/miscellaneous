@@ -401,7 +401,7 @@ CREATE TABLE `wp_users` (
 
 LOCK TABLES `wp_users` WRITE;
 /*!40000 ALTER TABLE `wp_users` DISABLE KEYS */;
-INSERT INTO `wp_users` VALUES (1,'user','e2615b2ccb7e70b0ca72c57d6e5b47f7','user','user@example.com','','2018-05-23 10:58:43','',0,'user');
+INSERT INTO `wp_users` VALUES (1,'user','$P$Bvq.5dhWBHEn3wj7H1o8PI4jBlCYs10','user','user@example.com','','2018-05-23 10:58:43','',0,'user');
 /*!40000 ALTER TABLE `wp_users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
